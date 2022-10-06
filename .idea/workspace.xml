@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68666ae9-b15b-46ec-a27e-48cb3a5d9e62" name="Changes" comment="updates on arrays">
-      <change afterPath="$PROJECT_DIR$/src/edu/afpc/arrays/Multidimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/afpc/methods/Apps.java" afterDir="false" />
+    <list default="true" id="68666ae9-b15b-46ec-a27e-48cb3a5d9e62" name="Changes" comment="first methods exercises">
+      <change afterPath="$PROJECT_DIR$/src/edu/afpc/methods/Areas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Apps">
+  <component name="RunManager" selected="Application.Areas">
     <configuration name="Apps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.afpc.methods.Apps" />
       <module name="java-primeiros-passos" />
@@ -64,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Consonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.afpc.arrays.Consonants" />
+    <configuration name="Areas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.afpc.methods.Areas" />
       <module name="java-primeiros-passos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.afpc.arrays.*" />
+          <option name="PATTERN" value="edu.afpc.methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Invert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.afpc.arrays.Invert" />
+    <configuration name="Consonants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.afpc.arrays.Consonants" />
       <module name="java-primeiros-passos" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Areas" />
         <item itemvalue="Application.Apps" />
         <item itemvalue="Application.Multidimensional" />
         <item itemvalue="Application.Randoms" />
         <item itemvalue="Application.Consonants" />
-        <item itemvalue="Application.Invert" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665057707679</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first methods exercises">
+      <created>1665070951673</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665070951673</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,7 +172,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="updates on arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates on arrays" />
+    <MESSAGE value="first methods exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="first methods exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
