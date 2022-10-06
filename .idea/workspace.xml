@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68666ae9-b15b-46ec-a27e-48cb3a5d9e62" name="Changes" comment="first methods exercises">
+    <list default="true" id="68666ae9-b15b-46ec-a27e-48cb3a5d9e62" name="Changes" comment="methods exercises completed">
       <change afterPath="$PROJECT_DIR$/src/edu/afpc/methods/Areas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -155,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665070951673</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="methods exercises completed">
+      <created>1665079221230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665079221231</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,7 +180,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="updates on arrays" />
     <MESSAGE value="first methods exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="first methods exercises" />
+    <MESSAGE value="methods exercises completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="methods exercises completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
