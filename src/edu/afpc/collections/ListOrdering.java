@@ -16,5 +16,15 @@ public class ListOrdering {
         System.out.println(animals);
         Collections.sort(animals);
         System.out.println(animals);
+
+        Collections.sort(animals, new ComparatorAge());
+//        animals.sort(new ComparatorAge());
+        System.out.println(animals);
+
+//        Collections.sort(animals, new ComparatorColor());
+        animals.sort(new ComparatorColor());
+        System.out.println(animals);
+
+        animals.sort(new ComparatorMany());
     }
 }

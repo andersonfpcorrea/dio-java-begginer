@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68666ae9-b15b-46ec-a27e-48cb3a5d9e62" name="Changes" comment="java collections - ordering lists - part 1">
-      <change afterPath="$PROJECT_DIR$/src/edu/afpc/collections/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/afpc/collections/ListOrdering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/afpc/collections/ComparatorAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/afpc/collections/ComparatorColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/afpc/collections/ComparatorMany.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/edu/afpc/collections/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/afpc/collections/ListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/afpc/collections/ListOrdering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/afpc/collections/ListOrdering.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665247790692</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="java collections - ordering lists - part 1">
+      <created>1665430768716</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665430768716</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
