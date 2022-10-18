@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68666ae9-b15b-46ec-a27e-48cb3a5d9e62" name="Changes" comment="java collections - Sets">
-      <change afterPath="$PROJECT_DIR$/src/edu/afpc/collections/CompareSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/afpc/collections/Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/afpc/collections/SetSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/afpc/collectionsExercises/AverageTemperatures.java" afterDir="false" />
+    <list default="true" id="68666ae9-b15b-46ec-a27e-48cb3a5d9e62" name="Changes" comment="java collections - completed">
+      <change afterPath="$PROJECT_DIR$/src/edu/afpc/collections/OrdenacaoMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/afpc/collections/CompareSeries.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
       <recent name="edu.afpc.collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SetSort">
+  <component name="RunManager" selected="Application.OrdenacaoMap">
     <configuration name="AverageTemperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.afpc.collectionsExercises.AverageTemperatures" />
       <module name="java-primeiros-passos" />
@@ -101,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Randoms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.afpc.arrays.Randoms" />
+    <configuration name="OrdenacaoMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.afpc.collections.OrdenacaoMap" />
       <module name="java-primeiros-passos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.afpc.arrays.*" />
+          <option name="PATTERN" value="edu.afpc.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrdenacaoMap" />
         <item itemvalue="Application.SetSort" />
         <item itemvalue="Application.AverageTemperatures" />
         <item itemvalue="Application.ListOrdering" />
         <item itemvalue="Application.ListExample" />
-        <item itemvalue="Application.Randoms" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665460518564</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="java collections - Sets">
+      <created>1666074511007</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666074511007</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +237,9 @@
     <MESSAGE value="java collections - lists" />
     <MESSAGE value="java collections - ordering lists - part 1" />
     <MESSAGE value="java collections - ordering lists - part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="java collections - ordering lists - part 2" />
+    <MESSAGE value="java collections - Sets" />
+    <MESSAGE value="java collections - completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="java collections - completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -241,6 +248,11 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/afpc/collections/OrdenacaoMap.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
